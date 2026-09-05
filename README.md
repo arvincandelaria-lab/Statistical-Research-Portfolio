@@ -2,6 +2,7 @@
 Academic Research projects demonstrating applications of statistical analysis, survey sampling, experimental design, and quantitative research.
 
 <h1 align="center">The Effect of Note-Taking and Learning Styles <br>on Comprehension and Memory Recall</br></h1>
+<h3 align="center">November 26, 2025</h3>
 
 <details>
 <summary align="center">
@@ -137,3 +138,39 @@ Participants: 36
 Research Design: 2×3 Factorial Design
 Primary Statistical Method: Two-Way MANOVA
 Focus: Learning Styles, Note-Taking, Comprehension, and Memory Recall
+
+<h1 align="center">Food Security and Poverty: <br>Assessing Household Experiences <br>of Food Shortage</br></h1>
+<h3 align="center">December 9, 2025</h3>
+
+<details>
+<summary align="center">
+  Source — <em>click to unfold</em>
+</summary>
+
+<p align="center">
+  <a href="https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/Group-7-Manuscript%20(1).pdf"](https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/G-16CandelariaMarabutVullag%20(1)%20(1).pdf">
+    G-16CandelariaMarabutVullag
+  </a>
+  <br>
+  <a href="https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/Group-7-Powerpoint.pdf"](https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/FINALSTATTEST%20(1).xlsx">
+    EXCEL
+  </a>
+</p>
+
+</details>
+
+## Overview
+
+This study examined the relationship between household socioeconomic characteristics and food insecurity among households in Mandaluyong City. Specifically, it investigated whether monthly household income was significantly associated with household food insecurity, as measured using the Household Food Insecurity Access Scale (HFIAS).
+
+Using data from 50 household respondents, the study analyzed four key socioeconomic variables: estimated monthly household income, household size, number of income earners, and monthly household food expenditure. A cross-sectional research design was used, with respondents selected through purposive and convenience sampling. Data were collected through a structured questionnaire administered face-to-face.
+
+Because the data showed substantial deviations from the assumptions required for traditional ANCOVA, the study applied Quade’s Rank-Based Nonparametric ANCOVA to compare food insecurity across income groups while accounting for relevant covariates. Additional statistical analyses included frequency and percentage distributions, Pearson correlation, multiple regression, post-hoc comparisons, and residual analysis.
+
+## Key Findings
+
+The analysis showed that monthly household income had a statistically significant effect on food insecurity, with the lowest-income group experiencing significantly higher adjusted HFIAS scores than the middle- and highest-income groups, even after controlling for the covariate. The model explained approximately 19.9% of the variance in the outcome.
+
+Among the socioeconomic covariates, household size was the only significant predictor of food insecurity. Larger households were associated with higher HFIAS scores, while the number of income earners and monthly food expenditure were not statistically significant predictors. The regression model explained approximately 17.7% of the variance in the ranked outcome.
+
+Overall, the findings suggest that income level and household size are important factors associated with household food insecurity within the sample. The study recommends targeted food assistance, income-support programs, and resource allocation that considers both household income and family size.
