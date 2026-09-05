@@ -174,3 +174,48 @@ The analysis showed that monthly household income had a statistically significan
 Among the socioeconomic covariates, household size was the only significant predictor of food insecurity. Larger households were associated with higher HFIAS scores, while the number of income earners and monthly food expenditure were not statistically significant predictors. The regression model explained approximately 17.7% of the variance in the ranked outcome.
 
 Overall, the findings suggest that income level and household size are important factors associated with household food insecurity within the sample. The study recommends targeted food assistance, income-support programs, and resource allocation that considers both household income and family size.
+
+<h1 align="center">Digital Food Platforms and Household Food Security: <br>Understanding Access, Effectiveness, and Barriers <br>in Mandaluyong City</br></h1>
+<h3 align="center">July 2025</h3>
+
+<details>
+<summary align="center">
+  Source — <em>click to unfold</em>
+</summary>
+
+<p align="center">
+  <a href="https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/Food%20Delivery%20Data.xlsx](https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/Food%20Delivery%20Data.xlsx">
+    FoodDeliveryRawData
+  </a>
+  <br>
+  <a href="https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/G-1.pdf](https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/G-1.pdf">
+    Thesis
+  </a>
+  </a>
+  <br>
+  <a href="https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/Food%20Security%20Journal.pdf](https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/Food%20Security%20Journal.pdf">
+    Journal
+  </a>
+</p>
+
+</details>
+
+## Thesis Overview
+
+Digital Food Platforms and Household Food Security: Understanding Access, Effectiveness, and Barriers in Mandaluyong City is a quantitative research study that examines how online food delivery platforms contribute to household food access and food security in an urban community.
+
+The study investigates how factors such as convenience and accessibility, affordability, digital literacy and payment preferences, and food quality and availability influence the use of digital food platforms. It also examines barriers related to financial limitations, digital and technical difficulties, service reliability, and trust and security.
+
+Using survey data from households in Mandaluyong City, the research applies descriptive and correlational statistical methods to analyze respondents' demographic characteristics, patterns of online food delivery usage, and food security conditions.
+
+The study demonstrates the application of statistical analysis, survey research, data interpretation, and quantitative research methods to understand the relationship between digital technology and household food security.
+
+## Key Areas
+
+- Quantitative & descriptive-correlational research
+- Survey data collection and analysis
+- Household food security assessment
+- Digital platform usage analysis
+- Demographic and socioeconomic analysis
+- Statistical testing and correlation analysis
+- Data interpretation and visualization
