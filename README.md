@@ -184,16 +184,16 @@ Overall, the findings suggest that income level and household size are important
 </summary>
 
 <p align="center">
-  <a href="https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/Food%20Delivery%20Data.xlsx](https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/Food%20Delivery%20Data.xlsx">
+  <a href="https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/Food%20Delivery%20Data.xlsx">
     FoodDeliveryRawData
   </a>
   <br>
-  <a href="https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/G-1.pdf](https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/G-1.pdf">
+  <a href="https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/G-1.pdf">
     Thesis
   </a>
   </a>
   <br>
-  <a href="https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/Food%20Security%20Journal.pdf](https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/Food%20Security%20Journal.pdf">
+  <a href="https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/Food%20Security%20Journal.pdf">
     Journal
   </a>
 </p>
