@@ -148,11 +148,11 @@ Focus: Learning Styles, Note-Taking, Comprehension, and Memory Recall
 </summary>
 
 <p align="center">
-  <a href="https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/Group-7-Manuscript%20(1).pdf"](https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/G-16CandelariaMarabutVullag%20(1)%20(1).pdf">
+  <a href="https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/G-16CandelariaMarabutVullag%20(1)%20(1).pdf">
     G-16CandelariaMarabutVullag
   </a>
   <br>
-  <a href="https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/Group-7-Powerpoint.pdf"](https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/FINALSTATTEST%20(1).xlsx">
+  <a href="https://github.com/arvincandelaria-lab/Statistical-Research-Portfolio/blob/main/FINALSTATTEST%20(1).xlsx">
     EXCEL
   </a>
 </p>
